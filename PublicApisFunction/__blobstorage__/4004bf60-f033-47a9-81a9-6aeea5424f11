@@ -1,0 +1,47 @@
+{
+  "masterKey": {
+    "name": "master",
+    "value": "UdkKgqI_44RCFtaeB_VOMKPSArFB6PlQNaYfgmyh39ZQAzFupcvUmA==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "ONZivzjsggAlrbangUohgfhmoq1IU22vh_KfFyclV5UvAzFuj3O2Ow==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000637DC3F8",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{
+  "masterKey": {
+    "name": "master",
+    "value": "UdkKgqI_44RCFtaeB_VOMKPSArFB6PlQNaYfgmyh39ZQAzFupcvUmA==",
+    "encrypted": false
+  },
+  "functionKeys": [
+    {
+      "name": "default",
+      "value": "ONZivzjsggAlrbangUohgfhmoq1IU22vh_KfFyclV5UvAzFuj3O2Ow==",
+      "encrypted": false
+    }
+  ],
+  "systemKeys": [
+    {
+      "name": "blobs_extension",
+      "value": "FgDL6ZtQkc2cWkbsUaMtNbpNYFsABEffmgpI4MQRPnH0AzFukD9YXg==",
+      "encrypted": false
+    }
+  ],
+  "hostName": "localhost:7071",
+  "instanceId": "000000000000000000000000637DC3F8",
+  "source": "runtime",
+  "decryptionKeyId": ""
+}{"Last":"0001-01-01T00:00:00","Next":"2024-02-26T14:53:00+02:00","LastUpdated":"2024-02-26T14:52:12.1222577+02:00"}{"count":1,"entries":[{"API":"British National Bibliography","Description":"Books","Auth":"","HTTPS":false,"Cors":"unknown","Link":"http://bnb.data.bl.uk/","Category":"Books"}]}
+{"Last":"2024-02-26T14:53:00.0227715+02:00","Next":"2024-02-26T14:54:00+02:00","LastUpdated":"2024-02-26T14:53:00.0227715+02:00"}{"count":1,"entries":[{"API":"BCLaws","Description":"Access to the laws of British Columbia","Auth":"","HTTPS":false,"Cors":"unknown","Link":"https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html","Category":"Government"}]}
+{"Last":"2024-02-26T14:54:00.0154482+02:00","Next":"2024-02-26T14:55:00+02:00","LastUpdated":"2024-02-26T14:54:00.0154482+02:00"}{"count":1,"entries":[{"API":"Transport for Switzerland","Description":"Swiss public transport API","Auth":"","HTTPS":true,"Cors":"unknown","Link":"https://transport.opendata.ch/","Category":"Transportation"}]}
+{"Last":"2024-02-26T14:55:00.0176259+02:00","Next":"2024-02-26T14:56:00+02:00","LastUpdated":"2024-02-26T14:55:00.0176259+02:00"}{"count":1,"entries":[{"API":"host-t.com","Description":"Basic DNS query via HTTP GET request","Auth":"","HTTPS":true,"Cors":"no","Link":"https://host-t.com","Category":"Development"}]}
+{"Last":"2024-02-26T14:56:00.0049572+02:00","Next":"2024-02-26T14:57:00+02:00","LastUpdated":"2024-02-26T14:56:00.0049572+02:00"}
